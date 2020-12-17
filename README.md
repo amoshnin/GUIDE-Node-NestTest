@@ -1,0 +1,30 @@
+# testing-nestjs
+
+## Status
+
+A repository to show off to the community methods of testing NestJS including Unit Tests, Integration Tests, E2E Tests, pipes, filters, interceptors, GraphQL, Mongo, TypeORM, and more!
+
+## Project Structure
+
+Each folder is a fully functional Nest application on its own. All you need to do after cloning the repository is move into the folder, install the dependencies, and test! Or you could just, you know, look at the test on GitHub too, no big deal.
+
+## Motivation
+
+I've noticed a lot of people seem to get stuck on testing, and how to do it using the utilities given to us by Nest. Hopefully with a community driven repository of tests it will help others get a better understanding and feel for how to get tests running.
+
+## Please Note
+
+This is not necessarily the Nest canonical way to test an application, nor is it the only way in any scenario. I will do my best to show different ways to run tests, but I will more than likely miss certain ways of running the tests, whether it is mocking in a specific way or otherwise. Again, this is a community maintained project and not a part of the official documentation. If you find other ways to test applications, great, I'd love to see them, but please do not think this is the only way.
+
+## Running the Project
+
+1. `git clone`
+2. `cd testing-nestjs/<folderName>`
+3. `npm install` OR `yarn add`
+4. `npm run test` OR `yarn test`
+
+## Authors and license
+
+[Artem Moshnin](https://github.com/Artem711)
+
+MIT License, see the included [License.md](LICENSE) file.
