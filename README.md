@@ -25,6 +25,6 @@ This is not necessarily the Nest canonical way to test an application, nor is it
 
 ## Authors and license
 
-[Artem Moshnin](https://github.com/Artem711)
+[Artem Moshnin](https://github.com/Artem711) credit to Jay McDoniel
 
 MIT License, see the included [License.md](LICENSE) file.
