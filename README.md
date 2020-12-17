@@ -1,4 +1,4 @@
-# testing-nestjs
+# Testing Nest JS (Server application)
 
 ## Status
 
